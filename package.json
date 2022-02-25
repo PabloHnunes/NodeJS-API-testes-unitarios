@@ -10,7 +10,7 @@
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pablo Henrique Nunes",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.2.0",
